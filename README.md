@@ -1,3 +1,4 @@
+## 注册信息 
  域名注册网站:https://nic.us.kg
  
  美国人生成器：https://ratenn.com/american.html
