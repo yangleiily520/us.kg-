@@ -7,6 +7,7 @@
 
 ## 验证邮件后填写
  随便写给理由，比如：”我是学生我在学习网站搭建，需要一个域名“然后去翻译成英文填上去,如下面
+ 
 I am a student and I am learning how to build a website. I need a domain name.
 
 文件类型我们填写：
